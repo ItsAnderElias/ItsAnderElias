@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsAnderElias
-- 👀 I’m interested in cute kittens.
-- 🌱 I’m currently learning Python
-- 📫 How to reach me itsanderelias@gmail.com
+- 👀 I’m interested in cute Kittens, Django, Javascript, HTML, CSS...
+- 🌱 I’m currently learning Python...
+- 📫 How to reach me andersonpruzak.jobs@gmail.com
 - ⚡ Fun fact: bitcoin better than fiat
