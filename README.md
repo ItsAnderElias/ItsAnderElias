@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anderson E. Pruzak
 - 👀 I’m interested in cute Kittens, Django, Javascript, HTML, CSS, React...
 - 📫 How to reach me andersonpruzak.jobs@gmail.com
-- ⚡ Fun fact: bitcoin better than fiat
+- ⚡ Fun fact: bitcoin is better than fiat
